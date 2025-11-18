@@ -1,0 +1,5919 @@
+{
+    "Juno_71-m": {
+        "crew_roster": [
+            {
+                "name": "Carrie Saunders",
+                "role": "Science Lead",
+                "certifications": [
+                    "Robotics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Samantha Cruz",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Michael Meyer",
+                "role": "Pilot",
+                "certifications": [
+                    "EVA",
+                    "Cryogenics",
+                    "Navigation",
+                    "Rendezvous"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-99px",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 64.8
+                }
+            },
+            {
+                "item_id": "PRO-95Gb",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 40.9
+                }
+            },
+            {
+                "item_id": "POW-26AD",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 123.3
+                }
+            },
+            {
+                "item_id": "THE-32ze",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 122.8
+                }
+            },
+            {
+                "item_id": "POW-27Rr",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 48.9
+                }
+            },
+            {
+                "item_id": "THE-37yq",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 57.1
+                }
+            },
+            {
+                "item_id": "PRO-30Wc",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 23.5
+                }
+            },
+            {
+                "item_id": "LIF-86Ki",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 47.0
+                }
+            },
+            {
+                "item_id": "SCI-75CN",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 74.3
+                }
+            }
+        ]
+    },
+    "Cygnus_82-L": {
+        "crew_roster": [
+            {
+                "name": "Susan Howard",
+                "role": "Commander",
+                "certifications": [
+                    "Robotics",
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Danielle Nichols",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Life Support",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Elizabeth Nelson",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Rendezvous",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-61aJ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 49.2
+                }
+            },
+            {
+                "item_id": "POW-89zW",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 39.3
+                }
+            },
+            {
+                "item_id": "SCI-31ba",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 141.1
+                }
+            },
+            {
+                "item_id": "LIF-32dY",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 98.9
+                }
+            },
+            {
+                "item_id": "SCI-27Ht",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 44.3
+                }
+            },
+            {
+                "item_id": "PRO-37yL",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 47.8
+                }
+            },
+            {
+                "item_id": "COM-36Cf",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 105.8
+                }
+            },
+            {
+                "item_id": "COM-46Gu",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 125.1
+                }
+            }
+        ]
+    },
+    "Artemis_39-I": {
+        "crew_roster": [
+            {
+                "name": "Robert Mercado",
+                "role": "Science Lead",
+                "certifications": [
+                    "Cryogenics",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Chad Wright",
+                "role": "Science Lead",
+                "certifications": [
+                    "Docking",
+                    "Cryogenics",
+                    "Rendezvous",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Julie Turner",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Navigation",
+                    "Life Support",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Glen Shelton",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Docking",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Thomas Hall",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-30BT",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 128.2
+                }
+            },
+            {
+                "item_id": "LIF-72IB",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 18.9
+                }
+            },
+            {
+                "item_id": "LIF-35vv",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 149.5
+                }
+            },
+            {
+                "item_id": "POW-99BN",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 146.0
+                }
+            },
+            {
+                "item_id": "SCI-04TJ",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 110.9
+                }
+            }
+        ]
+    },
+    "Mars_41-X": {
+        "crew_roster": [
+            {
+                "name": "Mrs. Judy Bishop MD",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Docking",
+                    "Robotics",
+                    "EVA",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Michael White",
+                "role": "Science Lead",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Margaret Carter",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Robotics",
+                    "Rendezvous",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Colin Malone",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "EVA",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Danielle Nichols",
+                "role": "Pilot",
+                "certifications": [
+                    "EVA",
+                    "Cryogenics",
+                    "Docking",
+                    "Payload"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-85PQ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 65.3
+                }
+            },
+            {
+                "item_id": "NAV-43Uu",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 85.2
+                }
+            },
+            {
+                "item_id": "THE-18Db",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 27.6
+                }
+            },
+            {
+                "item_id": "LIF-05hl",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 33.1
+                }
+            },
+            {
+                "item_id": "THE-96dX",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 94.9
+                }
+            }
+        ]
+    },
+    "ExoMars_61-O": {
+        "crew_roster": [
+            {
+                "name": "Glen Shelton",
+                "role": "Commander",
+                "certifications": [
+                    "Cryogenics",
+                    "Life Support",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Stephanie Floyd",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Robotics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Johnny Taylor",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Harold Newman",
+                "role": "Science Lead",
+                "certifications": [
+                    "EVA",
+                    "Cryogenics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-79cy",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 114.8
+                }
+            },
+            {
+                "item_id": "THE-92JA",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 56.3
+                }
+            },
+            {
+                "item_id": "COM-03Jq",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 49.0
+                }
+            },
+            {
+                "item_id": "COM-43mF",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 85.5
+                }
+            },
+            {
+                "item_id": "LIF-19MF",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 76.2
+                }
+            },
+            {
+                "item_id": "THE-32JU",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 67.0
+                }
+            },
+            {
+                "item_id": "NAV-83ay",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 48.3
+                }
+            },
+            {
+                "item_id": "PRO-99tJ",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 130.9
+                }
+            },
+            {
+                "item_id": "SCI-93pt",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 101.5
+                }
+            },
+            {
+                "item_id": "NAV-48kX",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 47.1
+                }
+            }
+        ]
+    },
+    "Apollo_38-g": {
+        "crew_roster": [
+            {
+                "name": "Sherry Craig",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Docking",
+                    "Cryogenics",
+                    "Robotics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Tiffany Hood",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Alexander Gonzalez",
+                "role": "Science Lead",
+                "certifications": [
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Julian Higgins",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-70af",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 175.4
+                }
+            },
+            {
+                "item_id": "THE-35bs",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 66.1
+                }
+            },
+            {
+                "item_id": "COM-38ur",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 63.1
+                }
+            },
+            {
+                "item_id": "POW-99Yn",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 139.7
+                }
+            },
+            {
+                "item_id": "POW-13JX",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 69.2
+                }
+            },
+            {
+                "item_id": "SCI-80ry",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 110.6
+                }
+            }
+        ]
+    },
+    "Dragon_10-j": {
+        "crew_roster": [
+            {
+                "name": "Chad Wright",
+                "role": "Commander",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Tiffany Mendez",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Jessica Rowe",
+                "role": "Commander",
+                "certifications": [
+                    "EVA",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Samantha Cruz",
+                "role": "Commander",
+                "certifications": [
+                    "Rendezvous",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Ashley Lopez",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Navigation",
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-82Og",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 23.2
+                }
+            },
+            {
+                "item_id": "PRO-18JE",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 102.0
+                }
+            },
+            {
+                "item_id": "LIF-02gb",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 54.3
+                }
+            },
+            {
+                "item_id": "COM-73lC",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 103.8
+                }
+            },
+            {
+                "item_id": "COM-29yG",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 47.2
+                }
+            },
+            {
+                "item_id": "SCI-67Uh",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 100.4
+                }
+            }
+        ]
+    },
+    "Starliner_23-t": {
+        "crew_roster": [
+            {
+                "name": "Robin Marks",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Eric Vaughn",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Life Support",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Richard Jackson",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-06Nv",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 225.9
+                }
+            },
+            {
+                "item_id": "LIF-64Jv",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 147.7
+                }
+            },
+            {
+                "item_id": "NAV-20ie",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 64.3
+                }
+            },
+            {
+                "item_id": "COM-63dJ",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 47.0
+                }
+            },
+            {
+                "item_id": "SCI-82ob",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 87.5
+                }
+            },
+            {
+                "item_id": "POW-60PI",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 94.7
+                }
+            },
+            {
+                "item_id": "COM-65dt",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 106.2
+                }
+            }
+        ]
+    },
+    "Axiom_64-Q": {
+        "crew_roster": [
+            {
+                "name": "Julie Stephens",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA",
+                    "Cryogenics",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Tony Williams",
+                "role": "Science Lead",
+                "certifications": [
+                    "Life Support",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Mary Hughes",
+                "role": "Commander",
+                "certifications": [
+                    "Navigation",
+                    "Life Support",
+                    "EVA",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Danielle Haynes",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "EVA",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Richard Bailey",
+                "role": "Commander",
+                "certifications": [
+                    "Navigation",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Christina Roberts",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Payload",
+                    "Navigation",
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-05TX",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 73.3
+                }
+            },
+            {
+                "item_id": "THE-56oP",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 88.4
+                }
+            },
+            {
+                "item_id": "LIF-76Fw",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 114.9
+                }
+            },
+            {
+                "item_id": "THE-05ib",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 32.8
+                }
+            },
+            {
+                "item_id": "PRO-10BZ",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 13.5
+                }
+            },
+            {
+                "item_id": "THE-88qh",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 140.3
+                }
+            }
+        ]
+    },
+    "Starliner_34-r": {
+        "crew_roster": [
+            {
+                "name": "Robert Gray",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Carrie Tucker",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Amber Bates",
+                "role": "Science Lead",
+                "certifications": [
+                    "Robotics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "William Moore",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Navigation",
+                    "Docking"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-55vQ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 42.3
+                }
+            },
+            {
+                "item_id": "PRO-76yx",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 105.1
+                }
+            },
+            {
+                "item_id": "POW-40Dm",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 141.5
+                }
+            },
+            {
+                "item_id": "POW-78Ap",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 35.0
+                }
+            },
+            {
+                "item_id": "NAV-33wK",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 168.0
+                }
+            }
+        ]
+    },
+    "Cygnus_51-U": {
+        "crew_roster": [
+            {
+                "name": "Karen Smith",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "EVA",
+                    "Life Support",
+                    "Navigation",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Colin Malone",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload",
+                    "Docking",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "John Morgan",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Mr. Steven Robinson",
+                "role": "Science Lead",
+                "certifications": [
+                    "Navigation",
+                    "Docking",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Sherry Craig",
+                "role": "Science Lead",
+                "certifications": [
+                    "Docking",
+                    "Rendezvous",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Julie Stephens",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Docking",
+                    "Life Support",
+                    "Navigation",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "William Sanchez",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-89Ee",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 66.3
+                }
+            },
+            {
+                "item_id": "PRO-36Wf",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 71.9
+                }
+            },
+            {
+                "item_id": "LIF-05UL",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 76.2
+                }
+            },
+            {
+                "item_id": "SCI-13GZ",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 21.9
+                }
+            },
+            {
+                "item_id": "SCI-30DN",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 98.6
+                }
+            },
+            {
+                "item_id": "NAV-21VG",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 80.0
+                }
+            }
+        ]
+    },
+    "Apollo_35-p": {
+        "crew_roster": [
+            {
+                "name": "Shirley Vega",
+                "role": "Pilot",
+                "certifications": [
+                    "Rendezvous",
+                    "Robotics",
+                    "Navigation",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Carrie Saunders",
+                "role": "Science Lead",
+                "certifications": [
+                    "Cryogenics",
+                    "Robotics",
+                    "Rendezvous",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "William Sanchez",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Terry Bartlett",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Robotics",
+                    "Rendezvous",
+                    "Payload",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-88hp",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 93.3
+                }
+            },
+            {
+                "item_id": "PRO-20AA",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 28.7
+                }
+            },
+            {
+                "item_id": "SCI-96hY",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 84.4
+                }
+            },
+            {
+                "item_id": "LIF-02WJ",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 54.4
+                }
+            },
+            {
+                "item_id": "LIF-67mJ",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 124.1
+                }
+            }
+        ]
+    },
+    "Cygnus_08-H": {
+        "crew_roster": [
+            {
+                "name": "Alexander Gonzalez",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Payload",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Jennifer Wiley",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload",
+                    "Docking",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Jessica Hamilton",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload",
+                    "Life Support",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Albert Santos",
+                "role": "Science Lead",
+                "certifications": [
+                    "Robotics",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Nancy Gomez",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Robotics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Lori Davis",
+                "role": "Commander",
+                "certifications": [
+                    "Payload",
+                    "Life Support",
+                    "Robotics",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Terry Bartlett",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Navigation",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-45yC",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 21.6
+                }
+            },
+            {
+                "item_id": "PRO-00Dw",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 76.8
+                }
+            },
+            {
+                "item_id": "POW-81Uo",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 115.5
+                }
+            },
+            {
+                "item_id": "LIF-78QG",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 114.7
+                }
+            },
+            {
+                "item_id": "THE-38Sw",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 94.5
+                }
+            },
+            {
+                "item_id": "PRO-78nq",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 40.7
+                }
+            },
+            {
+                "item_id": "PRO-22zm",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 14.1
+                }
+            },
+            {
+                "item_id": "SCI-98Py",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 105.1
+                }
+            },
+            {
+                "item_id": "SCI-77NZ",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 33.1
+                }
+            }
+        ]
+    },
+    "Dragon_37-i": {
+        "crew_roster": [
+            {
+                "name": "Tiffany Hood",
+                "role": "Commander",
+                "certifications": [
+                    "Docking",
+                    "Navigation",
+                    "Robotics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Carrie Saunders",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Docking",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Jordan Wu",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Payload",
+                    "Navigation",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Kimberly Perez",
+                "role": "Commander",
+                "certifications": [
+                    "Life Support",
+                    "Navigation",
+                    "EVA",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Julie Turner",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Victoria Mccarthy",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Mary Villegas",
+                "role": "Pilot",
+                "certifications": [
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-13Yu",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 39.1
+                }
+            },
+            {
+                "item_id": "SCI-66eW",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 26.0
+                }
+            },
+            {
+                "item_id": "PRO-64OK",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 107.9
+                }
+            },
+            {
+                "item_id": "COM-93Nj",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 94.8
+                }
+            },
+            {
+                "item_id": "THE-52Rx",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 124.7
+                }
+            }
+        ]
+    },
+    "Apollo_95-v": {
+        "crew_roster": [
+            {
+                "name": "Carrie Saunders",
+                "role": "Science Lead",
+                "certifications": [
+                    "Rendezvous",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Stephanie Floyd",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Mr. Steven Robinson",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Lisa Carey",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "William Moore",
+                "role": "Commander",
+                "certifications": [
+                    "Payload",
+                    "EVA",
+                    "Life Support",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Jordan Wu",
+                "role": "Science Lead",
+                "certifications": [
+                    "Cryogenics",
+                    "EVA",
+                    "Robotics",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Glen Shelton",
+                "role": "Science Lead",
+                "certifications": [
+                    "Docking",
+                    "Robotics",
+                    "Rendezvous",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-86WS",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 93.5
+                }
+            },
+            {
+                "item_id": "PRO-83Ey",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 71.0
+                }
+            },
+            {
+                "item_id": "POW-03Pf",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 55.1
+                }
+            },
+            {
+                "item_id": "THE-19uX",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 140.8
+                }
+            },
+            {
+                "item_id": "PRO-76iv",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 44.1
+                }
+            },
+            {
+                "item_id": "LIF-26cQ",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 95.4
+                }
+            },
+            {
+                "item_id": "POW-73Gw",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 14.0
+                }
+            }
+        ]
+    },
+    "Dragon_58-S": {
+        "crew_roster": [
+            {
+                "name": "Chad Wright",
+                "role": "Commander",
+                "certifications": [
+                    "EVA",
+                    "Life Support",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Mary Gomez",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Navigation",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Kimberly Morrison",
+                "role": "Science Lead",
+                "certifications": [
+                    "Cryogenics",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Nancy Gomez",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Navigation",
+                    "EVA",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Margaret Carter",
+                "role": "Pilot",
+                "certifications": [
+                    "Navigation",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Michael Meyer",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Payload",
+                    "Robotics",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-51Zx",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 79.6
+                }
+            },
+            {
+                "item_id": "POW-81Wv",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 108.4
+                }
+            },
+            {
+                "item_id": "POW-02nT",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 45.2
+                }
+            },
+            {
+                "item_id": "SCI-76qT",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 37.0
+                }
+            },
+            {
+                "item_id": "SCI-45UW",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 85.0
+                }
+            },
+            {
+                "item_id": "COM-14rB",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 40.3
+                }
+            },
+            {
+                "item_id": "POW-94qW",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 111.4
+                }
+            }
+        ]
+    },
+    "ExoMars_33-L": {
+        "crew_roster": [
+            {
+                "name": "Carla Wiley",
+                "role": "Science Lead",
+                "certifications": [
+                    "Docking",
+                    "Cryogenics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Elizabeth Nelson",
+                "role": "Commander",
+                "certifications": [
+                    "Life Support",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Sherry Craig",
+                "role": "Commander",
+                "certifications": [
+                    "Docking",
+                    "Payload",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Danielle Nichols",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Steven Mcguire",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Docking",
+                    "Rendezvous",
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-89wP",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 114.5
+                }
+            },
+            {
+                "item_id": "NAV-72yY",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 74.8
+                }
+            },
+            {
+                "item_id": "COM-87YC",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 123.6
+                }
+            },
+            {
+                "item_id": "NAV-61nB",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 29.5
+                }
+            },
+            {
+                "item_id": "LIF-11mg",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 93.5
+                }
+            },
+            {
+                "item_id": "COM-03Vm",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 118.6
+                }
+            },
+            {
+                "item_id": "PRO-32yL",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 137.2
+                }
+            },
+            {
+                "item_id": "THE-67Ee",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 92.4
+                }
+            }
+        ]
+    },
+    "Artemis_74-A": {
+        "crew_roster": [
+            {
+                "name": "Richard Jackson",
+                "role": "Commander",
+                "certifications": [
+                    "Life Support",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Tiffany Mendez",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "William Smith",
+                "role": "Commander",
+                "certifications": [
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Samantha Cruz",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Payload",
+                    "Life Support",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Carla Wiley",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Sean Perez",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics",
+                    "EVA",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Cynthia Thompson",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Cryogenics",
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-14JT",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 92.6
+                }
+            },
+            {
+                "item_id": "NAV-95zX",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 219.9
+                }
+            },
+            {
+                "item_id": "SCI-42eA",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 125.4
+                }
+            },
+            {
+                "item_id": "PRO-37AT",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 27.4
+                }
+            },
+            {
+                "item_id": "SCI-55JL",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 66.4
+                }
+            },
+            {
+                "item_id": "LIF-28Tr",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 85.6
+                }
+            }
+        ]
+    },
+    "Voyager_98-n": {
+        "crew_roster": [
+            {
+                "name": "William Sanchez",
+                "role": "Science Lead",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Monica Jones",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Samantha Cruz",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Docking"
+                ]
+            },
+            {
+                "name": "John Alvarez",
+                "role": "Science Lead",
+                "certifications": [
+                    "Life Support",
+                    "Rendezvous",
+                    "Cryogenics",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Thomas Hernandez",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Rendezvous",
+                    "Robotics",
+                    "Docking",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Julie Stephens",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Carrie Saunders",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Cryogenics",
+                    "Docking",
+                    "Payload",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-29WL",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 117.8
+                }
+            },
+            {
+                "item_id": "POW-79vg",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 26.2
+                }
+            },
+            {
+                "item_id": "THE-90Ar",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 82.0
+                }
+            },
+            {
+                "item_id": "SCI-52Wu",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 131.7
+                }
+            },
+            {
+                "item_id": "PRO-29tB",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 17.6
+                }
+            },
+            {
+                "item_id": "POW-56qY",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 97.2
+                }
+            },
+            {
+                "item_id": "SCI-31Fn",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 71.9
+                }
+            },
+            {
+                "item_id": "COM-21wX",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 47.4
+                }
+            },
+            {
+                "item_id": "POW-88Vx",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 71.3
+                }
+            }
+        ]
+    },
+    "Voyager_94-U": {
+        "crew_roster": [
+            {
+                "name": "Christy Maldonado",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Docking",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Thomas Hernandez",
+                "role": "Commander",
+                "certifications": [
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Kimberly Morrison",
+                "role": "Commander",
+                "certifications": [
+                    "Rendezvous",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-00do",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 59.8
+                }
+            },
+            {
+                "item_id": "LIF-59ag",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 108.8
+                }
+            },
+            {
+                "item_id": "THE-48sq",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 77.5
+                }
+            },
+            {
+                "item_id": "COM-28Zh",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 74.0
+                }
+            },
+            {
+                "item_id": "PRO-70zA",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 36.7
+                }
+            },
+            {
+                "item_id": "LIF-73xO",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 114.5
+                }
+            },
+            {
+                "item_id": "THE-62tr",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 19.8
+                }
+            },
+            {
+                "item_id": "POW-48yl",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 140.8
+                }
+            },
+            {
+                "item_id": "POW-33Sv",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 124.9
+                }
+            },
+            {
+                "item_id": "SCI-78hu",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 51.8
+                }
+            }
+        ]
+    },
+    "Axiom_88-Q": {
+        "crew_roster": [
+            {
+                "name": "Shannon Morales MD",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Docking",
+                    "Rendezvous",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Alexander Gonzalez",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Navigation",
+                    "Cryogenics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Tiffany Hood",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Robotics",
+                    "Payload",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Steven Kelly",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Robert Howell",
+                "role": "Commander",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Shane Russell",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA",
+                    "Payload",
+                    "Rendezvous",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-36FU",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 26.0
+                }
+            },
+            {
+                "item_id": "POW-86Pd",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 97.3
+                }
+            },
+            {
+                "item_id": "SCI-71vc",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 21.2
+                }
+            },
+            {
+                "item_id": "THE-68FO",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 104.4
+                }
+            },
+            {
+                "item_id": "PRO-52fJ",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 143.6
+                }
+            },
+            {
+                "item_id": "THE-48EF",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 85.7
+                }
+            },
+            {
+                "item_id": "NAV-18UU",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 74.7
+                }
+            },
+            {
+                "item_id": "COM-63Tn",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 114.5
+                }
+            },
+            {
+                "item_id": "NAV-79eD",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 76.2
+                }
+            },
+            {
+                "item_id": "PRO-12MF",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 33.3
+                }
+            }
+        ]
+    },
+    "Voyager_45-E": {
+        "crew_roster": [
+            {
+                "name": "John Alvarez",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload",
+                    "Docking",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Jennifer Jackson",
+                "role": "Science Lead",
+                "certifications": [
+                    "Navigation",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Tiffany Mendez",
+                "role": "Commander",
+                "certifications": [
+                    "Docking",
+                    "Rendezvous"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-90kJ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 69.5
+                }
+            },
+            {
+                "item_id": "PRO-64du",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 137.8
+                }
+            },
+            {
+                "item_id": "COM-21pB",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 74.6
+                }
+            },
+            {
+                "item_id": "PRO-21AR",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 45.7
+                }
+            },
+            {
+                "item_id": "THE-60wY",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 75.1
+                }
+            },
+            {
+                "item_id": "SCI-98CM",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 86.5
+                }
+            },
+            {
+                "item_id": "PRO-93SN",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 142.3
+                }
+            },
+            {
+                "item_id": "POW-77Ff",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 99.5
+                }
+            },
+            {
+                "item_id": "SCI-32LK",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 45.0
+                }
+            }
+        ]
+    },
+    "Dragon_77-f": {
+        "crew_roster": [
+            {
+                "name": "Dr. Lori Fowler",
+                "role": "Commander",
+                "certifications": [
+                    "Life Support",
+                    "Payload",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Steven Kelly",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support",
+                    "EVA",
+                    "Cryogenics",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Amber Bates",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Life Support",
+                    "Navigation",
+                    "Rendezvous",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Larry Perkins",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Payload",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "William Moore",
+                "role": "Science Lead",
+                "certifications": [
+                    "Docking",
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Mr. Steven Robinson",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-28JZ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 157.9
+                }
+            },
+            {
+                "item_id": "NAV-75YR",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 46.1
+                }
+            },
+            {
+                "item_id": "COM-14gk",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 38.1
+                }
+            },
+            {
+                "item_id": "POW-58zA",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 84.3
+                }
+            },
+            {
+                "item_id": "THE-43CE",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 33.0
+                }
+            },
+            {
+                "item_id": "THE-47mO",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 51.3
+                }
+            },
+            {
+                "item_id": "THE-53bF",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 26.1
+                }
+            },
+            {
+                "item_id": "COM-74FD",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 115.6
+                }
+            }
+        ]
+    },
+    "Axiom_84-E": {
+        "crew_roster": [
+            {
+                "name": "Tony Williams",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "EVA",
+                    "Docking",
+                    "Life Support",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Kimberly Morrison",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Life Support",
+                    "Cryogenics",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Emily Wise",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Rhonda Wiggins",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Danielle Haynes",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Jennifer Jackson",
+                "role": "Pilot",
+                "certifications": [
+                    "Life Support",
+                    "Payload",
+                    "Robotics",
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-25GN",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 44.3
+                }
+            },
+            {
+                "item_id": "NAV-60MJ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 233.7
+                }
+            },
+            {
+                "item_id": "PRO-15cG",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 73.5
+                }
+            },
+            {
+                "item_id": "PRO-85vU",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 92.2
+                }
+            },
+            {
+                "item_id": "PRO-90je",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 101.7
+                }
+            }
+        ]
+    },
+    "ExoMars_58-m": {
+        "crew_roster": [
+            {
+                "name": "Michael Meyer",
+                "role": "Science Lead",
+                "certifications": [
+                    "Robotics",
+                    "Navigation",
+                    "Docking",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Jennifer Flores",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Payload",
+                    "EVA",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Brandi Allen",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "William Zamora",
+                "role": "Commander",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload",
+                    "Cryogenics",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Chad Wright",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Jesse Ryan",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Robotics",
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-22UA",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 37.3
+                }
+            },
+            {
+                "item_id": "POW-15yR",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 118.4
+                }
+            },
+            {
+                "item_id": "NAV-59UV",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 98.6
+                }
+            },
+            {
+                "item_id": "LIF-56UU",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 45.1
+                }
+            },
+            {
+                "item_id": "NAV-89Ad",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 22.1
+                }
+            },
+            {
+                "item_id": "POW-86rp",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 120.6
+                }
+            },
+            {
+                "item_id": "LIF-37eR",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 55.3
+                }
+            },
+            {
+                "item_id": "POW-34iB",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 17.3
+                }
+            },
+            {
+                "item_id": "LIF-57Dd",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 25.9
+                }
+            }
+        ]
+    },
+    "Cygnus_63-f": {
+        "crew_roster": [
+            {
+                "name": "Kelsey Rodriguez",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Rhonda Wiggins",
+                "role": "Commander",
+                "certifications": [
+                    "Cryogenics",
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Karen Smith",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Robotics",
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Kimberly Perez",
+                "role": "Pilot",
+                "certifications": [
+                    "Rendezvous",
+                    "EVA",
+                    "Docking",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Amber Bates",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Alexander Gonzalez",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Navigation",
+                    "Life Support",
+                    "Cryogenics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-54Ub",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 54.4
+                }
+            },
+            {
+                "item_id": "THE-38Nm",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 101.7
+                }
+            },
+            {
+                "item_id": "SCI-33iE",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 131.2
+                }
+            },
+            {
+                "item_id": "PRO-28tY",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 134.3
+                }
+            },
+            {
+                "item_id": "POW-21Xm",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 125.8
+                }
+            },
+            {
+                "item_id": "PRO-14bG",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 112.1
+                }
+            },
+            {
+                "item_id": "PRO-71Qj",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 53.8
+                }
+            },
+            {
+                "item_id": "POW-52QO",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 143.5
+                }
+            }
+        ]
+    },
+    "Apollo_48-j": {
+        "crew_roster": [
+            {
+                "name": "Elizabeth Nelson",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload",
+                    "Navigation",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Mary Villegas",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "EVA",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Danielle Haynes",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous",
+                    "Robotics",
+                    "Docking"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-86FQ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 53.8
+                }
+            },
+            {
+                "item_id": "POW-39Se",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 94.1
+                }
+            },
+            {
+                "item_id": "NAV-09NO",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 37.0
+                }
+            },
+            {
+                "item_id": "COM-52Jd",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 128.6
+                }
+            },
+            {
+                "item_id": "THE-19ud",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 87.9
+                }
+            },
+            {
+                "item_id": "THE-65FA",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 49.0
+                }
+            },
+            {
+                "item_id": "THE-27Eu",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 70.1
+                }
+            },
+            {
+                "item_id": "THE-74EO",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 124.6
+                }
+            },
+            {
+                "item_id": "SCI-71xk",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 100.0
+                }
+            },
+            {
+                "item_id": "LIF-08Gd",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 140.1
+                }
+            }
+        ]
+    },
+    "Voyager_69-I": {
+        "crew_roster": [
+            {
+                "name": "Stephanie Murphy",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Payload",
+                    "EVA",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Carrie Tucker",
+                "role": "Pilot",
+                "certifications": [
+                    "Navigation",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Sean Perez",
+                "role": "Science Lead",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Stephanie Floyd",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-49wd",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 150.2
+                }
+            },
+            {
+                "item_id": "THE-59CK",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 141.8
+                }
+            },
+            {
+                "item_id": "NAV-37Eo",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 32.4
+                }
+            },
+            {
+                "item_id": "NAV-65hC",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 41.7
+                }
+            },
+            {
+                "item_id": "PRO-47Ay",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 95.0
+                }
+            },
+            {
+                "item_id": "POW-83IL",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 40.2
+                }
+            },
+            {
+                "item_id": "NAV-15dN",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 28.9
+                }
+            }
+        ]
+    },
+    "Cygnus_36-c": {
+        "crew_roster": [
+            {
+                "name": "Harold Newman",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Stephanie Floyd",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Docking",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "William Sanchez",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Payload",
+                    "EVA",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Cody Williams",
+                "role": "Science Lead",
+                "certifications": [
+                    "Docking",
+                    "Rendezvous",
+                    "Robotics",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Jordan Wu",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Tiffany Mitchell",
+                "role": "Commander",
+                "certifications": [
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Tiffany Mendez",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation",
+                    "Docking",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-79zQ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 71.1
+                }
+            },
+            {
+                "item_id": "NAV-80AD",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 97.2
+                }
+            },
+            {
+                "item_id": "THE-50Rl",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 142.7
+                }
+            },
+            {
+                "item_id": "THE-02ZJ",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 106.5
+                }
+            },
+            {
+                "item_id": "NAV-24QH",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 28.5
+                }
+            },
+            {
+                "item_id": "LIF-30mw",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 66.1
+                }
+            },
+            {
+                "item_id": "PRO-63yq",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 131.9
+                }
+            },
+            {
+                "item_id": "COM-79eQ",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 56.6
+                }
+            },
+            {
+                "item_id": "NAV-44AM",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 29.1
+                }
+            }
+        ]
+    },
+    "Apollo_84-p": {
+        "crew_roster": [
+            {
+                "name": "Robert Howell",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Rendezvous",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Deborah Jordan",
+                "role": "Pilot",
+                "certifications": [
+                    "Docking",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Jeremy Harris",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Michael White",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Cryogenics",
+                    "Navigation",
+                    "Life Support",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Shirley Vega",
+                "role": "Commander",
+                "certifications": [
+                    "Payload",
+                    "Rendezvous",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-92tI",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 44.2
+                }
+            },
+            {
+                "item_id": "LIF-95Og",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 17.9
+                }
+            },
+            {
+                "item_id": "NAV-15rQ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 56.1
+                }
+            },
+            {
+                "item_id": "POW-55ZI",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 126.4
+                }
+            },
+            {
+                "item_id": "SCI-51tM",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 131.0
+                }
+            },
+            {
+                "item_id": "LIF-08lb",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 93.2
+                }
+            },
+            {
+                "item_id": "PRO-21Wz",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 91.2
+                }
+            },
+            {
+                "item_id": "PRO-25uu",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 137.3
+                }
+            }
+        ]
+    },
+    "Juno_10-q": {
+        "crew_roster": [
+            {
+                "name": "John Alvarez",
+                "role": "Commander",
+                "certifications": [
+                    "EVA",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Thomas Hernandez",
+                "role": "Pilot",
+                "certifications": [
+                    "Rendezvous",
+                    "Life Support",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Albert Santos",
+                "role": "Science Lead",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Daniel Sellers",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics",
+                    "Life Support",
+                    "Navigation",
+                    "Payload"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-53yU",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 42.6
+                }
+            },
+            {
+                "item_id": "THE-16fT",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 57.4
+                }
+            },
+            {
+                "item_id": "NAV-39LM",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 71.7
+                }
+            },
+            {
+                "item_id": "POW-86LK",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 23.2
+                }
+            },
+            {
+                "item_id": "POW-57bw",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 45.3
+                }
+            },
+            {
+                "item_id": "THE-14Ki",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 31.1
+                }
+            },
+            {
+                "item_id": "LIF-35Gu",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 102.9
+                }
+            }
+        ]
+    },
+    "Starliner_23-Z": {
+        "crew_roster": [
+            {
+                "name": "Robin Perkins",
+                "role": "Commander",
+                "certifications": [
+                    "Payload",
+                    "Navigation",
+                    "Rendezvous",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Tiffany Mitchell",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload",
+                    "EVA",
+                    "Docking",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Krystal Davis",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Payload",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Mary Villegas",
+                "role": "Pilot",
+                "certifications": [
+                    "Robotics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Stephanie Floyd",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Emily Wise",
+                "role": "Science Lead",
+                "certifications": [
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-82nn",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 69.4
+                }
+            },
+            {
+                "item_id": "PRO-74VQ",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 31.6
+                }
+            },
+            {
+                "item_id": "THE-70xS",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 107.0
+                }
+            },
+            {
+                "item_id": "THE-04Di",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 136.4
+                }
+            },
+            {
+                "item_id": "NAV-37QX",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 74.0
+                }
+            },
+            {
+                "item_id": "PRO-96AK",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 95.5
+                }
+            },
+            {
+                "item_id": "COM-14nx",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 84.8
+                }
+            }
+        ]
+    },
+    "Artemis_87-c": {
+        "crew_roster": [
+            {
+                "name": "William Zamora",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support",
+                    "Navigation",
+                    "Robotics",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Lisa Carey",
+                "role": "Pilot",
+                "certifications": [
+                    "Docking",
+                    "Navigation",
+                    "Rendezvous",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Mr. Steven Robinson",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA",
+                    "Payload",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Jesse Ryan",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous",
+                    "Payload",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-42bV",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 81.0
+                }
+            },
+            {
+                "item_id": "PRO-19Gy",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 136.7
+                }
+            },
+            {
+                "item_id": "THE-12Om",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 71.2
+                }
+            },
+            {
+                "item_id": "THE-59Kb",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 73.2
+                }
+            },
+            {
+                "item_id": "NAV-12DF",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 51.7
+                }
+            }
+        ]
+    },
+    "Dragon_59-y": {
+        "crew_roster": [
+            {
+                "name": "Mary Villegas",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Docking",
+                    "Rendezvous",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "William Zamora",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Docking",
+                    "Navigation",
+                    "Payload",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Cody Williams",
+                "role": "Commander",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Carrie Saunders",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Navigation",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Thomas Hall",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation",
+                    "Docking",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Carla Wiley",
+                "role": "Pilot",
+                "certifications": [
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-14Zs",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 69.8
+                }
+            },
+            {
+                "item_id": "NAV-79WD",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 59.9
+                }
+            },
+            {
+                "item_id": "NAV-00BO",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 65.9
+                }
+            },
+            {
+                "item_id": "POW-43Ja",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 70.1
+                }
+            },
+            {
+                "item_id": "POW-23cM",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 43.7
+                }
+            },
+            {
+                "item_id": "COM-27tM",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 103.0
+                }
+            },
+            {
+                "item_id": "LIF-17rA",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 146.5
+                }
+            },
+            {
+                "item_id": "LIF-21Km",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 86.2
+                }
+            }
+        ]
+    },
+    "ExoMars_97-q": {
+        "crew_roster": [
+            {
+                "name": "John Morgan",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Payload",
+                    "Docking",
+                    "Cryogenics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Albert Santos",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "William Sanchez",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-03cf",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 47.0
+                }
+            },
+            {
+                "item_id": "THE-71uR",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 119.1
+                }
+            },
+            {
+                "item_id": "SCI-34Up",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 77.0
+                }
+            },
+            {
+                "item_id": "THE-79Ja",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 28.9
+                }
+            },
+            {
+                "item_id": "NAV-27Kj",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 23.5
+                }
+            }
+        ]
+    },
+    "Apollo_84-y": {
+        "crew_roster": [
+            {
+                "name": "Stephanie Floyd",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Life Support",
+                    "EVA",
+                    "Payload",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Karen Smith",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "EVA",
+                    "Navigation",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Jordan Wu",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Rendezvous",
+                    "Navigation",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Jeremy Harris",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Cryogenics",
+                    "Robotics",
+                    "Docking",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Ashley Lopez",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Payload",
+                    "Navigation",
+                    "Life Support",
+                    "Docking"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-90Qp",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 26.3
+                }
+            },
+            {
+                "item_id": "THE-08Qp",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 35.3
+                }
+            },
+            {
+                "item_id": "POW-83AR",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 24.4
+                }
+            },
+            {
+                "item_id": "SCI-33fg",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 51.4
+                }
+            },
+            {
+                "item_id": "LIF-33DY",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 110.5
+                }
+            }
+        ]
+    },
+    "Juno_42-m": {
+        "crew_roster": [
+            {
+                "name": "Robert Howell",
+                "role": "Science Lead",
+                "certifications": [
+                    "Life Support",
+                    "Payload",
+                    "EVA",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Alexander Gonzalez",
+                "role": "Commander",
+                "certifications": [
+                    "Payload",
+                    "Life Support",
+                    "Cryogenics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "William Sanchez",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Deborah Jordan",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Mary Gomez",
+                "role": "Commander",
+                "certifications": [
+                    "Payload",
+                    "Robotics",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "William Smith",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Docking"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-46mJ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 65.9
+                }
+            },
+            {
+                "item_id": "POW-15hd",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 65.7
+                }
+            },
+            {
+                "item_id": "COM-93za",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 144.5
+                }
+            },
+            {
+                "item_id": "SCI-59VL",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 36.0
+                }
+            },
+            {
+                "item_id": "PRO-10Wq",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 137.9
+                }
+            },
+            {
+                "item_id": "POW-23Zy",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 118.5
+                }
+            },
+            {
+                "item_id": "COM-79NR",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 149.5
+                }
+            },
+            {
+                "item_id": "SCI-21CZ",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 138.3
+                }
+            }
+        ]
+    },
+    "Dragon_55-h": {
+        "crew_roster": [
+            {
+                "name": "Julian Higgins",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Docking",
+                    "Payload",
+                    "Robotics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Dr. Lori Fowler",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Payload",
+                    "Cryogenics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Katherine Carter",
+                "role": "Science Lead",
+                "certifications": [
+                    "Life Support",
+                    "Navigation",
+                    "Rendezvous"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-94Tk",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 71.0
+                }
+            },
+            {
+                "item_id": "LIF-49vY",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 41.4
+                }
+            },
+            {
+                "item_id": "THE-60PC",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 29.4
+                }
+            },
+            {
+                "item_id": "NAV-80uN",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 65.7
+                }
+            },
+            {
+                "item_id": "THE-79zy",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 147.6
+                }
+            },
+            {
+                "item_id": "LIF-40CY",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 133.8
+                }
+            },
+            {
+                "item_id": "POW-02pq",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 65.7
+                }
+            },
+            {
+                "item_id": "LIF-92hE",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 67.5
+                }
+            },
+            {
+                "item_id": "THE-64po",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 90.5
+                }
+            },
+            {
+                "item_id": "POW-29fq",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 99.9
+                }
+            }
+        ]
+    },
+    "Artemis_39-u": {
+        "crew_roster": [
+            {
+                "name": "Robert Howell",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Docking",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Robin Perkins",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Elizabeth Nelson",
+                "role": "Pilot",
+                "certifications": [
+                    "Life Support",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Kelsey Rodriguez",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Docking",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Susan Howard",
+                "role": "Pilot",
+                "certifications": [
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Richard Bailey",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Docking",
+                    "Payload",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Kimberly Perez",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Docking"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-50ti",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 200.5
+                }
+            },
+            {
+                "item_id": "POW-39Bp",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 128.0
+                }
+            },
+            {
+                "item_id": "NAV-03cV",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 22.3
+                }
+            },
+            {
+                "item_id": "SCI-48tI",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 117.9
+                }
+            },
+            {
+                "item_id": "SCI-17ca",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 39.5
+                }
+            },
+            {
+                "item_id": "PRO-53yV",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 96.5
+                }
+            },
+            {
+                "item_id": "PRO-39uZ",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 134.5
+                }
+            },
+            {
+                "item_id": "POW-02Xp",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 99.9
+                }
+            },
+            {
+                "item_id": "PRO-24iz",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 44.3
+                }
+            }
+        ]
+    },
+    "Starliner_10-U": {
+        "crew_roster": [
+            {
+                "name": "Katherine Carter",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics",
+                    "Rendezvous",
+                    "Docking",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Brandi Allen",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Payload",
+                    "Cryogenics",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Tiffany Mendez",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Payload",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Jennifer Wiley",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Jesse Ryan",
+                "role": "Pilot",
+                "certifications": [
+                    "Rendezvous",
+                    "Docking",
+                    "Robotics",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Carl Boyd",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-68UB",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 53.4
+                }
+            },
+            {
+                "item_id": "THE-30xR",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 55.8
+                }
+            },
+            {
+                "item_id": "SCI-71Go",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 53.8
+                }
+            },
+            {
+                "item_id": "PRO-24mJ",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 149.4
+                }
+            },
+            {
+                "item_id": "PRO-23Tt",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 133.1
+                }
+            },
+            {
+                "item_id": "NAV-10hh",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 162.0
+                }
+            },
+            {
+                "item_id": "COM-36MK",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 40.1
+                }
+            },
+            {
+                "item_id": "NAV-94OY",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 176.8
+                }
+            }
+        ]
+    },
+    "Starliner_79-R": {
+        "crew_roster": [
+            {
+                "name": "Robin Marks",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Docking",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Tony Williams",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Amber Bates",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Rendezvous",
+                    "Robotics",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Monica Jones",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Rendezvous",
+                    "Cryogenics",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Julian Higgins",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Payload",
+                    "Life Support",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Nancy Gomez",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Deborah Jordan",
+                "role": "Science Lead",
+                "certifications": [
+                    "EVA",
+                    "Cryogenics",
+                    "Navigation",
+                    "Rendezvous"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-36mG",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 61.5
+                }
+            },
+            {
+                "item_id": "LIF-53FG",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 135.0
+                }
+            },
+            {
+                "item_id": "POW-57vg",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 140.4
+                }
+            },
+            {
+                "item_id": "COM-24rG",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 65.0
+                }
+            },
+            {
+                "item_id": "SCI-46oG",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 128.0
+                }
+            },
+            {
+                "item_id": "POW-24jI",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 81.0
+                }
+            },
+            {
+                "item_id": "LIF-58Sz",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 78.6
+                }
+            }
+        ]
+    },
+    "Artemis_29-i": {
+        "crew_roster": [
+            {
+                "name": "Jeremy Harris",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support",
+                    "Navigation",
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Mark Arroyo",
+                "role": "Pilot",
+                "certifications": [
+                    "Life Support",
+                    "Payload",
+                    "Cryogenics",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "William Zamora",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Shane Russell",
+                "role": "Commander",
+                "certifications": [
+                    "Docking",
+                    "Navigation",
+                    "Payload",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Lisa Carey",
+                "role": "Commander",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Colin Malone",
+                "role": "Science Lead",
+                "certifications": [
+                    "Payload",
+                    "Robotics",
+                    "Rendezvous",
+                    "Navigation"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-61iA",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 81.9
+                }
+            },
+            {
+                "item_id": "THE-47vZ",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 128.8
+                }
+            },
+            {
+                "item_id": "SCI-40bE",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 29.3
+                }
+            },
+            {
+                "item_id": "LIF-91Fx",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 55.5
+                }
+            },
+            {
+                "item_id": "LIF-95ar",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 62.8
+                }
+            },
+            {
+                "item_id": "PRO-90Mb",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 137.7
+                }
+            }
+        ]
+    },
+    "ExoMars_47-m": {
+        "crew_roster": [
+            {
+                "name": "Lisa Carey",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Rendezvous",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Mrs. Judy Bishop MD",
+                "role": "Science Lead",
+                "certifications": [
+                    "Robotics",
+                    "Docking",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Larry Richardson",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Cryogenics",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Rachel Maldonado",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support",
+                    "Docking",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Michael White",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Navigation",
+                    "Cryogenics",
+                    "Docking",
+                    "Rendezvous"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-27Bl",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 77.1
+                }
+            },
+            {
+                "item_id": "PRO-20Kp",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 101.8
+                }
+            },
+            {
+                "item_id": "COM-16MS",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 38.3
+                }
+            },
+            {
+                "item_id": "POW-07SH",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 140.6
+                }
+            },
+            {
+                "item_id": "COM-04nN",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 25.3
+                }
+            }
+        ]
+    },
+    "Dragon_31-v": {
+        "crew_roster": [
+            {
+                "name": "Mary Hughes",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "EVA",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Harold Newman",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Cryogenics",
+                    "EVA",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Laura Martinez",
+                "role": "Pilot",
+                "certifications": [
+                    "EVA",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Cody Williams",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Cryogenics",
+                    "Robotics",
+                    "Payload",
+                    "Rendezvous"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-58do",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 71.6
+                }
+            },
+            {
+                "item_id": "SCI-24zZ",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 90.4
+                }
+            },
+            {
+                "item_id": "SCI-24iC",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 111.2
+                }
+            },
+            {
+                "item_id": "COM-72bZ",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 68.5
+                }
+            },
+            {
+                "item_id": "NAV-37Va",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 51.7
+                }
+            },
+            {
+                "item_id": "COM-67mw",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 141.1
+                }
+            },
+            {
+                "item_id": "NAV-85Sk",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 187.4
+                }
+            }
+        ]
+    },
+    "Artemis_96-c": {
+        "crew_roster": [
+            {
+                "name": "Eric Vaughn",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Michael White",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Ashley Lopez",
+                "role": "Science Lead",
+                "certifications": [
+                    "Life Support",
+                    "Payload",
+                    "Rendezvous",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Laura Martinez",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Life Support",
+                    "Cryogenics",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Brandy Riley",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Docking",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-35DW",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 86.1
+                }
+            },
+            {
+                "item_id": "POW-39Gp",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 22.1
+                }
+            },
+            {
+                "item_id": "COM-19tG",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 147.4
+                }
+            },
+            {
+                "item_id": "POW-31lr",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 141.0
+                }
+            },
+            {
+                "item_id": "POW-17xT",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 63.7
+                }
+            },
+            {
+                "item_id": "THE-77bU",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 47.4
+                }
+            },
+            {
+                "item_id": "POW-23qL",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 91.5
+                }
+            },
+            {
+                "item_id": "NAV-49Mz",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 48.7
+                }
+            },
+            {
+                "item_id": "NAV-37HG",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 57.2
+                }
+            },
+            {
+                "item_id": "PRO-16pg",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 106.1
+                }
+            }
+        ]
+    },
+    "Juno_99-S": {
+        "crew_roster": [
+            {
+                "name": "Richard Bailey",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Robotics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Danielle Nichols",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "William Zamora",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Payload",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-16Nf",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 86.0
+                }
+            },
+            {
+                "item_id": "SCI-29hh",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 115.7
+                }
+            },
+            {
+                "item_id": "LIF-76tp",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 72.5
+                }
+            },
+            {
+                "item_id": "NAV-94Km",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 29.0
+                }
+            },
+            {
+                "item_id": "LIF-99sK",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 38.3
+                }
+            },
+            {
+                "item_id": "COM-41ZZ",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 33.0
+                }
+            },
+            {
+                "item_id": "PRO-93qX",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 26.3
+                }
+            },
+            {
+                "item_id": "SCI-46LX",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 91.6
+                }
+            },
+            {
+                "item_id": "LIF-01YO",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 72.4
+                }
+            }
+        ]
+    },
+    "Cygnus_42-T": {
+        "crew_roster": [
+            {
+                "name": "Karen Smith",
+                "role": "Science Lead",
+                "certifications": [
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Carl Boyd",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA",
+                    "Robotics",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Eric Vaughn",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Julie Turner",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-55ur",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 63.2
+                }
+            },
+            {
+                "item_id": "NAV-34DF",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 57.7
+                }
+            },
+            {
+                "item_id": "PRO-89Qk",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 35.2
+                }
+            },
+            {
+                "item_id": "THE-04tO",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 99.8
+                }
+            },
+            {
+                "item_id": "POW-84lx",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 149.0
+                }
+            },
+            {
+                "item_id": "PRO-13vB",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 131.7
+                }
+            },
+            {
+                "item_id": "PRO-14Xi",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 21.2
+                }
+            }
+        ]
+    },
+    "Apollo_20-x": {
+        "crew_roster": [
+            {
+                "name": "Jacob Fowler",
+                "role": "Commander",
+                "certifications": [
+                    "Robotics",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Charles Shelton DDS",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Tiffany Hood",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Cryogenics",
+                    "Rendezvous",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Jordan Wu",
+                "role": "Science Lead",
+                "certifications": [
+                    "Docking",
+                    "Cryogenics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Laura Martinez",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-35jt",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 81.2
+                }
+            },
+            {
+                "item_id": "COM-56PM",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 38.9
+                }
+            },
+            {
+                "item_id": "LIF-46fz",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 14.7
+                }
+            },
+            {
+                "item_id": "SCI-86UI",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 108.5
+                }
+            },
+            {
+                "item_id": "COM-45nu",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 113.7
+                }
+            },
+            {
+                "item_id": "PRO-80jW",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 42.8
+                }
+            },
+            {
+                "item_id": "THE-14Et",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 130.9
+                }
+            },
+            {
+                "item_id": "COM-80IJ",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 80.5
+                }
+            },
+            {
+                "item_id": "COM-75lJ",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 124.2
+                }
+            },
+            {
+                "item_id": "POW-48JL",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 90.8
+                }
+            }
+        ]
+    },
+    "Dragon_63-k": {
+        "crew_roster": [
+            {
+                "name": "Shirley Vega",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support",
+                    "EVA",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "Victoria Mccarthy",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Barbara Phillips",
+                "role": "Science Lead",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Cody Williams",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload",
+                    "Cryogenics",
+                    "Robotics",
+                    "Navigation"
+                ]
+            },
+            {
+                "name": "Jasmine Snyder",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Navigation",
+                    "Rendezvous",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-39zw",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 44.0
+                }
+            },
+            {
+                "item_id": "THE-89UT",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 74.8
+                }
+            },
+            {
+                "item_id": "LIF-67NA",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 67.8
+                }
+            },
+            {
+                "item_id": "LIF-22Nl",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 84.2
+                }
+            },
+            {
+                "item_id": "COM-31hn",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 45.7
+                }
+            },
+            {
+                "item_id": "SCI-78UC",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 21.1
+                }
+            }
+        ]
+    },
+    "Mars_48-E": {
+        "crew_roster": [
+            {
+                "name": "Danielle Haynes",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Tiffany Hood",
+                "role": "Pilot",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Larry Richardson",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Cryogenics",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Elizabeth Nelson",
+                "role": "Pilot",
+                "certifications": [
+                    "Life Support",
+                    "EVA",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Sherry Craig",
+                "role": "Pilot",
+                "certifications": [
+                    "Cryogenics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-94DU",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 36.3
+                }
+            },
+            {
+                "item_id": "LIF-43Ha",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 55.0
+                }
+            },
+            {
+                "item_id": "PRO-52HI",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 75.3
+                }
+            },
+            {
+                "item_id": "POW-48Qm",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 46.6
+                }
+            },
+            {
+                "item_id": "PRO-50Sj",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 75.2
+                }
+            },
+            {
+                "item_id": "THE-51HL",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 127.6
+                }
+            },
+            {
+                "item_id": "POW-57Vb",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 53.8
+                }
+            },
+            {
+                "item_id": "LIF-74cJ",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 131.0
+                }
+            },
+            {
+                "item_id": "NAV-86zI",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 94.7
+                }
+            },
+            {
+                "item_id": "SCI-75LQ",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 68.5
+                }
+            }
+        ]
+    },
+    "Apollo_81-J": {
+        "crew_roster": [
+            {
+                "name": "Steven Mcguire",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Payload",
+                    "Docking",
+                    "Robotics",
+                    "Cryogenics"
+                ]
+            },
+            {
+                "name": "William Moore",
+                "role": "Pilot",
+                "certifications": [
+                    "Payload",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Julie Turner",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Docking",
+                    "Life Support",
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Elizabeth Nelson",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Terry Bartlett",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "EVA"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-83oP",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 38.5
+                }
+            },
+            {
+                "item_id": "NAV-58rl",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 56.4
+                }
+            },
+            {
+                "item_id": "LIF-04TS",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 99.3
+                }
+            },
+            {
+                "item_id": "PRO-13IH",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 102.3
+                }
+            },
+            {
+                "item_id": "NAV-25KZ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 52.9
+                }
+            },
+            {
+                "item_id": "LIF-37BO",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 111.1
+                }
+            }
+        ]
+    },
+    "Starliner_32-Y": {
+        "crew_roster": [
+            {
+                "name": "Daniel Sellers",
+                "role": "Pilot",
+                "certifications": [
+                    "Docking",
+                    "EVA",
+                    "Navigation",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Jeremy Harris",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Robotics",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Carrie Tucker",
+                "role": "Commander",
+                "certifications": [
+                    "Payload",
+                    "Docking",
+                    "Robotics"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-83Ct",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 56.7
+                }
+            },
+            {
+                "item_id": "SCI-22Iu",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 41.6
+                }
+            },
+            {
+                "item_id": "SCI-77Wx",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 148.8
+                }
+            },
+            {
+                "item_id": "NAV-67HS",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 50.1
+                }
+            },
+            {
+                "item_id": "NAV-84Di",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 76.2
+                }
+            },
+            {
+                "item_id": "PRO-61LS",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 128.3
+                }
+            },
+            {
+                "item_id": "LIF-37jG",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 146.8
+                }
+            }
+        ]
+    },
+    "ExoMars_24-i": {
+        "crew_roster": [
+            {
+                "name": "Steven Mcguire",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Life Support",
+                    "EVA",
+                    "Navigation",
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Chad Wright",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Docking"
+                ]
+            },
+            {
+                "name": "Brandi Allen",
+                "role": "Pilot",
+                "certifications": [
+                    "EVA",
+                    "Rendezvous",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-64WM",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 94.2
+                }
+            },
+            {
+                "item_id": "COM-16qL",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 89.0
+                }
+            },
+            {
+                "item_id": "THE-69zJ",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 128.9
+                }
+            },
+            {
+                "item_id": "POW-07xH",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Nominal",
+                    "power_W": 63.7
+                }
+            },
+            {
+                "item_id": "THE-55hp",
+                "type": "Thermal",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 148.4
+                }
+            },
+            {
+                "item_id": "LIF-22AU",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 114.4
+                }
+            },
+            {
+                "item_id": "NAV-85fO",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 138.7
+                }
+            },
+            {
+                "item_id": "POW-75lB",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 94.7
+                }
+            },
+            {
+                "item_id": "LIF-46Ms",
+                "type": "Life Support",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 65.5
+                }
+            },
+            {
+                "item_id": "NAV-26uV",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 82.6
+                }
+            }
+        ]
+    },
+    "Artemis_60-h": {
+        "crew_roster": [
+            {
+                "name": "Mary Gomez",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Navigation",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "Susan Howard",
+                "role": "Commander",
+                "certifications": [
+                    "Robotics",
+                    "Payload",
+                    "EVA"
+                ]
+            },
+            {
+                "name": "William Moore",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Docking",
+                    "Robotics",
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Monica Jones",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Navigation",
+                    "Docking"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-39tv",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 241.7
+                }
+            },
+            {
+                "item_id": "POW-29Gm",
+                "type": "Power",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 116.6
+                }
+            },
+            {
+                "item_id": "COM-23hU",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Offline",
+                    "power_W": 22.2
+                }
+            },
+            {
+                "item_id": "PRO-77wM",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 88.0
+                }
+            },
+            {
+                "item_id": "PRO-41jk",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 24.5
+                }
+            }
+        ]
+    },
+    "Starliner_50-D": {
+        "crew_roster": [
+            {
+                "name": "Danielle Haynes",
+                "role": "Pilot",
+                "certifications": [
+                    "Navigation",
+                    "Cryogenics",
+                    "EVA",
+                    "Life Support"
+                ]
+            },
+            {
+                "name": "Tiffany Mitchell",
+                "role": "Pilot",
+                "certifications": [
+                    "Navigation",
+                    "Rendezvous"
+                ]
+            },
+            {
+                "name": "Robert Gray",
+                "role": "Pilot",
+                "certifications": [
+                    "Life Support",
+                    "Docking",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "John Alvarez",
+                "role": "Flight Engineer",
+                "certifications": [
+                    "Docking"
+                ]
+            },
+            {
+                "name": "John Morgan",
+                "role": "Systems Analyst",
+                "certifications": [
+                    "Navigation",
+                    "Docking",
+                    "Robotics"
+                ]
+            },
+            {
+                "name": "Robin Marks",
+                "role": "Mission Specialist",
+                "certifications": [
+                    "Payload"
+                ]
+            },
+            {
+                "name": "Danielle Nichols",
+                "role": "Payload Specialist",
+                "certifications": [
+                    "Cryogenics",
+                    "Life Support"
+                ]
+            }
+        ],
+        "hardware_inventory": [
+            {
+                "item_id": "NAV-18PZ",
+                "type": "Navigation",
+                "diagnostics": {
+                    "status": "Ready",
+                    "power_W": 30.8
+                }
+            },
+            {
+                "item_id": "PRO-31uu",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 56.5
+                }
+            },
+            {
+                "item_id": "PRO-24Uh",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 122.6
+                }
+            },
+            {
+                "item_id": "PRO-53hX",
+                "type": "Propulsion",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 56.9
+                }
+            },
+            {
+                "item_id": "COM-01Se",
+                "type": "Communication",
+                "diagnostics": {
+                    "status": "Testing",
+                    "power_W": 52.1
+                }
+            },
+            {
+                "item_id": "SCI-04Xz",
+                "type": "Science",
+                "diagnostics": {
+                    "status": "Degraded",
+                    "power_W": 38.1
+                }
+            }
+        ]
+    }
+}
